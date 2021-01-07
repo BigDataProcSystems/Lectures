@@ -2,10 +2,16 @@
 
 ## Contents
 
-Batch processing:
+
 - [Introduction to Big Data](BigData_Intro.pdf)
+
+File Systems:
 - [Hadoop Distributed File System (HDFS)](BigData_HDFS.pdf)
+
+Cluster Managers:
 - [Yet Another Resource Negotiator (YARN)](BigData_YARN.pdf)
+
+Batch processing:
 - [MapReduce Framework](BigData_MapReduce.pdf)
 - [Introduction to Spark](BigData_Spark.pdf)
 - [User-Defined Functions (UDF) in PySpark](BigData_PySpark_UDF.pdf)
@@ -24,6 +30,7 @@ Graphs:
 
 Containers:
 - [Introduction to Docker](BigData_Docker.pdf)
+- [Spark on Kubernetes](BigData_Spark_K8s.pdf)
 
 
 Spark Machine Learning:
