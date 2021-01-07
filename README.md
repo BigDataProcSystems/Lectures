@@ -3,7 +3,7 @@
 ## Contents
 
 
-- [Introduction to Big Data](BigData_Intro.pdf)
+[Introduction to Big Data](BigData_Intro.pdf)
 
 File Systems:
 - [Hadoop Distributed File System (HDFS)](BigData_HDFS.pdf)
