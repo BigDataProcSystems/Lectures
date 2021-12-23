@@ -37,3 +37,4 @@ S.Yu. Papulin (papulin.study@yandex.ru)
 - Linux and Python:
     - [Introduction to Linux Kernel](common/SysProg_Intro.pdf)
     - [Completely Fair Scheduler](common/SysProg_CFS.pdf)
+    - [Virtual File System](common/SysProg_VFS.pdf)
