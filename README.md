@@ -9,13 +9,13 @@ S.Yu. Papulin (papulin.study@yandex.ru)
 - File Systems:
     - [Hadoop Distributed File System (HDFS)](https://drive.google.com/file/d/1fTf--ZYqE61wV-tNvZgfUvECYSdWhbXA/view?usp=sharing)
 - Cluster Managers:
-    - [Yet Another Resource Negotiator (YARN)](BigData_YARN.pdf)
+    - [Yet Another Resource Negotiator (YARN)](https://drive.google.com/file/d/1omVClBZTXuye6edGJ6-mg9AV0jQ_kaEN/view?usp=sharing)
 - Batch processing:
-    - [MapReduce Framework](BigData_MapReduce.pdf)
+    - [MapReduce Framework](https://drive.google.com/file/d/1N31ghy9zaQpc-L28XXRJeC-9Gahlurnx/view?usp=sharing)
     - [Introduction to Spark](BigData_Spark.pdf)
     - [User-Defined Functions (UDF) in PySpark](BigData_PySpark_UDF.pdf)
 - Coordination:
-    - [Introduction to Zookeeper](BigData_Zookeeper.pdf)
+    - [Introduction to Zookeeper](https://drive.google.com/file/d/1sWtFkQW--FhOfEMH46zh3FGI3Vk12vvV/view?usp=sharing)
 - Streaming:
     - [Apache Storm](https://drive.google.com/file/d/1oLM0mRNrEEf40voTjtA0vJnE-EtUJqvI/view?usp=sharing)
     - [Spark Streaming](BigData_Spark_Streaming.pdf)
