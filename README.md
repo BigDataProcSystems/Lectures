@@ -22,8 +22,8 @@ S.Yu. Papulin (papulin.study@yandex.ru)
     - [Spark Streaming](https://drive.google.com/file/d/10LpgzZCyGoO_pTvNSS_nf4ybQG1ezcdh/view?usp=sharing)
     - [Spark Structured Streaming](https://drive.google.com/file/d/1lXL00oqy4iVF3ZOkK8j17ECPRdzkYwKv/view?usp=sharing)
 - Graphs:
-    - [Apache Giraph](BigData_Giraph.pdf)
-    - [Spark GraphX](BigData_GraphX.pdf)
+    - [Apache Giraph](https://drive.google.com/file/d/1tLKbUeS7UygbD514y4ulNvZr5Jt3ebky/view?usp=sharing)
+    - [Spark GraphX](https://drive.google.com/file/d/1RaU3pxpnrJRQa1fiFWuUU9Mr5yRLfOxh/view?usp=sharing)
 - Containers:
     - [Introduction to Docker](BigData_Docker.pdf)
     - [Spark on Kubernetes](BigData_Spark_K8s.pdf)
