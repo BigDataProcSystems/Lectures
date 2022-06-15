@@ -25,15 +25,15 @@ S.Yu. Papulin (papulin.study@yandex.ru)
     - [Apache Giraph](https://drive.google.com/file/d/1tLKbUeS7UygbD514y4ulNvZr5Jt3ebky/view?usp=sharing)
     - [Spark GraphX](https://drive.google.com/file/d/1RaU3pxpnrJRQa1fiFWuUU9Mr5yRLfOxh/view?usp=sharing)
 - Containers:
-    - [Introduction to Docker](BigData_Docker.pdf)
-    - [Spark on Kubernetes](BigData_Spark_K8s.pdf)
+    - [Introduction to Docker](https://drive.google.com/file/d/1vb_fAwhB3oZxnukpuMKYRNFJa0bGn74C/view?usp=sharing)
+    - [Spark on Kubernetes](https://drive.google.com/file/d/1hKwSqKd-eC3ALg5TxrHQAMDgtUfUTar0/view?usp=sharing)
 
 ## Additional topics
 
 - Spark Machine Learning:
-    - [Stochastic Gradient Descent](Spark_MLlib_Distributed_SGD.pdf)
-    - [Naive Bayes Classifier](Spark_MLlib_NaiveBayes.pdf)
-    - [Recommendation Systems using ALS](BigData_ML_RecomSystems.pdf)
+    - [Stochastic Gradient Descent](https://drive.google.com/file/d/1tCb3A93A0Fo4tkGCo1ckU3-5zt6Jt8VC/view?usp=sharing)
+    - [Naive Bayes Classifier](https://drive.google.com/file/d/13W5If_KIinFKCJpSe0l9_8jQRuI5mD0S/view?usp=sharing)
+    - [Recommendation Systems using ALS](https://drive.google.com/file/d/18uJnyk2kP_1Zmn4p5ITnilFjTR0E1xkL/view?usp=sharing)
 
 - Linux and Python:
     - [Introduction to Linux Kernel](common/SysProg_Intro.pdf)
