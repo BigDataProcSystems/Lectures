@@ -5,9 +5,9 @@ S.Yu. Papulin (papulin.study@yandex.ru)
 ## Big Data Processing Systems
 
 
-- [Introduction to Big Data](BigData_Intro.pdf)
+- [Introduction to Big Data](https://drive.google.com/file/d/1w8wIVj3wDBzjJ1AnJDxD0saeLUESwe7T/view?usp=sharing)
 - File Systems:
-    - [Hadoop Distributed File System (HDFS)](BigData_HDFS.pdf)
+    - [Hadoop Distributed File System (HDFS)](https://drive.google.com/file/d/1fTf--ZYqE61wV-tNvZgfUvECYSdWhbXA/view?usp=sharing)
 - Cluster Managers:
     - [Yet Another Resource Negotiator (YARN)](BigData_YARN.pdf)
 - Batch processing:
@@ -17,7 +17,7 @@ S.Yu. Papulin (papulin.study@yandex.ru)
 - Coordination:
     - [Introduction to Zookeeper](BigData_Zookeeper.pdf)
 - Streaming:
-    - [Apache Storm](BigData_Storm.pdf)
+    - [Apache Storm](https://drive.google.com/file/d/1oLM0mRNrEEf40voTjtA0vJnE-EtUJqvI/view?usp=sharing)
     - [Spark Streaming](BigData_Spark_Streaming.pdf)
     - [Spark Structured Streaming](BigData_Spark_Streaming_Structured.pdf)
 - Graphs:
