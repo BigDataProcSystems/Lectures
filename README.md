@@ -36,8 +36,8 @@ S.Yu. Papulin (papulin.study@yandex.ru)
     - [Recommendation Systems using ALS](https://drive.google.com/file/d/18uJnyk2kP_1Zmn4p5ITnilFjTR0E1xkL/view?usp=sharing)
 
 - Linux and Python:
-    - [Introduction to Linux Kernel](common/SysProg_Intro.pdf)
-    - [Completely Fair Scheduler](common/SysProg_CFS.pdf)
-    - [Virtual File System](common/SysProg_VFS.pdf)
-    - [Network Protocols](common/SysProg_NetworkProtocols.pdf)
-    - [CPython](common/SysProg_CPython.pdf)
+    - [Introduction to Linux Kernel](https://drive.google.com/file/d/1hqfHZpJmRftmNYrO4I4S4AMvQuGMrW3p/view?usp=sharing)
+    - [Completely Fair Scheduler](https://drive.google.com/file/d/11Mr0otI41gj9nWmeeK-FeUPX-sCs50Cp/view?usp=sharing)
+    - [Virtual File System](https://drive.google.com/file/d/1x4Zk-5qZUE7ZrPLMi0buB9iVM0SkjNvf/view?usp=sharing)
+    - [Network Protocols](https://drive.google.com/file/d/1eaGFhlXluLW7PuBPtYTTxeQkucz-W9Sg/view?usp=sharing)
+    - [CPython](https://drive.google.com/file/d/1dHf6pCzJCVd-Ji4sNKFa3UoC6c5R0kg1/view?usp=sharing)
